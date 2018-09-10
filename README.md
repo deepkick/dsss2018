@@ -2,11 +2,6 @@
 
 このディレクトリには，実習で用いる[Jupyter notebook](https://nbviewer.jupyter.org/github/tenomoto/dsss2018/tree/master/)がある。
 
-### 準備
-
-* [install.ipynb](https://nbviewer.jupyter.org/github/tenomoto/dsss2018/blob/master/install.ipynb): Pythonと必要なモジュールのインストール。
-* [font.ipynb](https://nbviewer.jupyter.org/github/tenomoto/dsss2018/blob/master/font.ipynb): matplotlibで日本語を使うための設定。
-
 ### 実習
 * [Wyoming.ipynb](https://nbviewer.jupyter.org/github/tenomoto/dsss2018/blob/master/Wyoming.ipynb): 高層観測データを解析してSkew-T図を作成する。
 * [map.ipynb](https://nbviewer.jupyter.org/github/tenomoto/dsss2018/blob/master/map.ipynb): いくつかの地図投影法を用いて地図を描画する。
