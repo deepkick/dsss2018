@@ -22,4 +22,4 @@
 * [IPython Cookbook Second Edition 2018](https://ipython-books.github.io)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org) [日本語版](http://www.turbare.net/transl/scipy-lecture-notes/index.html)
 * [Unidata Online Python Training](https://unidata.github.io/online-python-training/)
-
+* [Matplotlib FAQ Parts of Figure](https://matplotlib.org/faq/usage_faq.html)
